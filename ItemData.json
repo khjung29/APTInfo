@@ -8,10 +8,10 @@
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
         { "title" : "아파트투유( APT2you )", "id" : "w_0", "url" : "http://m.apt2you.com", "img" : "w_naver"  },
-        { "title" : "국토교통부 실거래가", "id" : "w_1", "url" : "http://rt.molit.go.kr", "img" : "w_naver"  },
+        { "title" : "국토교통부 실거래가", "id" : "w_1", "url" : "http://m.molit.go.kr", "img" : "w_naver"  },
         { "title" : "온나라부동산", "id" : "w_2", "url" : "http://m.onnara.go.kr", "img" : "w_naver"  },
         { "title" : "네이버부동산", "id" : "w_3", "url" : "http://m.land.naver.com/article", "img" : "w_naver"  },
-        { "title" : "다음부동산", "id" : "w_4", "url" : "m.realestate.daum.net", "img" : "w_daum"  }
+        { "title" : "다음부동산", "id" : "w_4", "url" : "http://m.realestate.daum.net", "img" : "w_daum"  }
       ]
     }
     
