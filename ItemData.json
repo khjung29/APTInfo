@@ -14,6 +14,19 @@
         { "title" : "부동산 114", "id" : "w_4", "url" : "http://m.r114.com/memul/memulList.asp", "img" : "w_114"  },
         { "title" : "다음부동산", "id" : "w_5", "url" : "http://m.realestate.daum.net", "img" : "w_daum"  }
       ]
+    },
+     {
+      "title" : "계산기 모음",
+      "type" : "1",
+      "typecnt" : "1",
+      "typenames" : [""],
+      "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
+      "item" : [
+        { "title" : "중개수수료(복비) 계산기", "id" : "c_0", "url" : "http://m.apt2you.com", "img" : "w_apt2you"  },
+        { "title" : "㎡/평 계산기", "id" : "c_1", "url" : "http://rtmobile.molit.go.kr", "img" : "w_nat"  },
+        { "title" : "평당가격 계산기", "id" : "c_2", "url" : "http://m.onnara.go.kr", "img" : "w_onnala"  }
+     
+      ]
     }
     
   ]
