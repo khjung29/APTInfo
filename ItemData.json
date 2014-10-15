@@ -1,17 +1,16 @@
 { 
   "recipe" : [
     {
-      "title" : "웹툰",
+      "title" : "아파트정보",
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
-        { "title" : "네이버 웹툰", "id" : "w_0", "url" : "http://m.comic.naver.com/index.nhn", "img" : "w_naver"  },
-        { "title" : "다음 만화", "id" : "w_1", "url" : "http://m.cartoon.media.daum.net", "img" : "w_daum"  },
-        { "title" : "네이트 만화", "id" : "w_2", "url" : "http://m.nate.com/webtoon.html", "img" : "w_nate"  },
-        
-        { "title" : "한국아이닷컴 웹툰", "id" : "w_33", "url" : "http://m.hankooki.com/m_wt.php", "img" : "w_naver"  }
+        { "title" : "아파트투유( APT2you )", "id" : "w_0", "url" : "http://m.apt2you.com", "img" : "w_apt2you"  },
+        { "title" : "국토교통부 실거래가", "id" : "w_1", "url" : "http://rt.moblit.go.kr", "img" : "w_moblit"  },
+        { "title" : "네이버부동산", "id" : "w_2", "url" : "http://m.land.naver.com/article", "img" : "w_naver"  },
+        { "title" : "다음부동산", "id" : "w_3", "url" : "http://m.realestate.daum.net/mobile/index.html", "img" : "w_daum"  }
       ]
     }
     
