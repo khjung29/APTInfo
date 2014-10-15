@@ -13,54 +13,6 @@
         
         { "title" : "한국아이닷컴 웹툰", "id" : "w_33", "url" : "http://m.hankooki.com/m_wt.php", "img" : "w_naver"  }
       ]
-    },
-    
-    {
-      "title" : "커뮤니티",
-      "type" : "1",
-      "typecnt" : "0",
-      "typenames" : [""],
-      "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_2d=2ts_tong_info03&seq=%s&encyn=y",
-      "item" : [
-         { "title" : "네이트 판", "id" : "c_0", "url" : "http://m.pann.nate.com/talk/talk/index?snbId=todayTalk", "img" : "w_nate"  },
-        { "title" : "인벤", "id" : "c_1", "url" : "http://m.inven.co.kr", "img" : "w_naver"  },
-        { "title" : "엽혹진 (엽기혹은진실)", "id" : "c_32", "url" : "http://m.cafe.daum.net/truepicture/_rec?boardType=M", "img" : "w_naver"  },
-        { "title" : "네이버 뿜&톡", "id" : "c_34", "url" : "http://m.bboom2.naver.com", "img" : "w_naver"  }
-      ]
-    },
-    
-    {
-      "title" : "신문",
-      "type" : "2",
-      "typecnt" : "3",
-      "typenames" : ["일반","스포츠","경제"],
-      "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_2d=2ts_tong_info03&seq=%s&encyn=y",
-      "item" : [
-        { "title" : "경향신문", "id" : "n_0", "url" : "http://m.khan.co.kr", "img" : "w_naver", "type" : "n_0"  },
-        { "title" : "네이버 뉴스", "id" : "n_1", "url" : "http://m.news.naver.com/home.nhn", "img" : "w_naver", "type" : "n_0"  },
-        { "title" : "네이트 뉴스", "id" : "n_2", "url" : "http://m.news.nate.com", "img" : "w_naver", "type" : "n_0"  },
-        
-        { "title" : "MK 스포츠", "id" : "n_41", "url" : "http://sports.mk.co.kr", "img" : "w_naver", "type" : "n_1"   }
-        
-        
-      ]
-    },
-    
-    {
-      "title" : "쇼핑",
-      "type" : "3",
-      "typecnt" : "4",
-      "typenames" : ["여성","남성","오픈마켓","쇼셜"],
-      "url" : "http://nbbs.kbs.co.kr/section/board/bbs_print.html?bbs_2d=2ts_tong_info03&seq=%s&encyn=y",
-      "item" : [
-        { "title" : "아우라제이", "id" : "s_0", "url" : "http://www.aura-j.kr", "img" : "w_naver", "type" : "s_0"  },
-      
-      
-     
-       { "title" : "위메프", "id" : "s_94", "url" : "http://m.gobest.co.kr/movie/makeprice.htm", "img" : "w_naver", "type" : "s_3"  }
-      
-        
-      ]
     }
     
   ]
