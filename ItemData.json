@@ -10,7 +10,7 @@
         { "title" : "아파트투유( APT2you )", "id" : "w_0", "url" : "http://m.apt2you.com", "img" : "w_apt2you"  },
         { "title" : "국토교통부 실거래가", "id" : "w_1", "url" : "http://rtmobile.molit.go.kr", "img" : "w_nat"  },
         { "title" : "온나라 부동산", "id" : "w_2", "url" : "http://m.onnara.go.kr", "img" : "w_onnala"  },
-        { "title" : "네이버 부동산", "id" : "w_4", "url" : "http://m.land.naver.com/article", "img" : "w_naver"  },
+        { "title" : "네이버 부동산", "id" : "w_3", "url" : "http://m.land.naver.com/article", "img" : "w_naver"  },
         { "title" : "부동산 114", "id" : "w_4", "url" : "http://m.r114.com/memul/memulList.asp", "img" : "w_114"  },
         { "title" : "다음부동산", "id" : "w_5", "url" : "http://m.realestate.daum.net", "img" : "w_daum"  }
       ]
