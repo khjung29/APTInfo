@@ -22,9 +22,9 @@
       "typenames" : [""],
       "url" : "http://kbbs.kbs.co.kr/board/message/view.do?boardName=2ts_tong_notice05&messageId=%s",
       "item" : [
-        { "title" : "중개수수료(복비) 계산기", "id" : "c_0", "url" : "http://m.r114.com/solution/solution.asp", "img" : "w_apt2you"  },
-        { "title" : "㎡/평 계산기", "id" : "c_1", "url" : "http://m.r114.com/solution/solution.asp", "img" : "w_nat"  },
-        { "title" : "부동산114 계산기", "id" : "c_2", "url" : "http://m.r114.com/solution/solution.asp", "img" : "w_114"  }
+        { "title" : "중개수수료(복비) 계산기", "id" : "c_0", "url" : "http://m.r114.com/solution/solution.asp", "img" : "c_calc"  },
+        { "title" : "㎡/평 계산기", "id" : "c_1", "url" : "http://m.r114.com/solution/solution.asp", "img" : "c_calc"  },
+        { "title" : "부동산114 계산기", "id" : "c_2", "url" : "http://m.r114.com/solution/solution.asp", "img" : "c_calc"  }
      
       ]
     }
